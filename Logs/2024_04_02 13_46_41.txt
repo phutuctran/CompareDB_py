@@ -1,0 +1,55 @@
+Table: Gallery
+	Columns no diff!
+Table: ProductAttribute
+	Columns no diff!
+Table: OrderDetail
+	Columns no diff!
+Table: Menu
+	Columns no diff!
+Table: Website
+	Columns no diff!
+Table: Category
+	Columns no diff!
+Table: User
+	Columns no diff!
+Table: sysdiagrams
+	Columns no diff!
+Table: Product
+	Columns no diff!
+Table: Review
+	New column (CreatedBy)
+Table: Attribute
+	Columns no diff!
+Table: ProductImage
+	Columns no diff!
+Table: ImportHistory
+	Columns no diff!
+Table: AuditLog
+	Columns no diff!
+Table: Customer
+	Columns no diff!
+Table: ProductRelated
+	Columns no diff!
+Table: test2
+	Columns no diff!
+Table: Voucher
+	Columns no diff!
+Table: Order
+	Columns no diff!
+Table: Article
+	Columns no diff!
+Table: EmailTemplate
+	Columns no diff!
+**New test
+	New column (sdfsd)
+['sdfsd', 'real', None, 'YES', False] None
+	New column (sothuc)
+['sothuc', 'decimal', None, 'YES', False] None
+	New column (haha)
+['haha', 'nchar', 10, 'NO', True] None
+	New column (dsfsd)
+['dsfsd', 'smalldatetime', None, 'YES', False] None
+	New column (hihi)
+['hihi', 'nvarchar', -1, 'YES', False] None
+	New column (dsfsdfsdvxc)
+['dsfsdfsdvxc', 'bit', None, 'YES', False] None
